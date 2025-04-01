@@ -1,5 +1,13 @@
 # zeroStep_POC
 
+useful commands:
+install packages
+- npm i 
+run all tests:
+- npx playwright test 
+run all test and see UI:
+- npx playwright test --headed
+
 Takeaways:
 
 - On a free trial we can use the API key for only 500 times. (which is too less)

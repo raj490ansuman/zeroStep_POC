@@ -1,11 +1,13 @@
 # zeroStep_POC
 
 useful commands:
-install packages
+** install packages
 - npm i 
-run all tests:
-- npx playwright test 
-run all test and see UI:
+
+** run all tests:
+- npx playwright test
+
+** run all test and see UI:
 - npx playwright test --headed
 
 Takeaways:

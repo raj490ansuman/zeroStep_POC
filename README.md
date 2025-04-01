@@ -7,6 +7,9 @@ useful commands:
 ** run all tests:
 - npx playwright test
 
+** debug all tests:
+- npx playwright test --debug
+
 ** run all test and see UI:
 - npx playwright test --headed
 
